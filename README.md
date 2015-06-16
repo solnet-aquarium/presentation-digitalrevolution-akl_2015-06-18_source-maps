@@ -2,7 +2,7 @@
 
 In which we look at how to make them, how they work, and how to use them
 
-# What are they
+## What
 
 > "De-referenced" uglified code
 
@@ -12,4 +12,3 @@ In which we look at how to make them, how they work, and how to use them
 
  -- http://www.html5rocks.com/en/tutorials/developertools/sourcemaps/#toc-realworld
  
-[history]: https://github.com/solnetdigital/presentation-digitalrevolution-akl_2015-06-18_source-maps/blob/master/01-history.md
