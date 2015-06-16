@@ -1,0 +1,20 @@
+{
+  "name": "presentation-digitalrevolution-akl_2015-06-18_source-maps",
+  "version": "0.0.0",
+  "homepage": "https://github.com/solnetdigital/presentation-digitalrevolution-akl_2015-06-18_source-maps",
+  "authors": [
+    "Michael Robinson <michael.robinson@solnet.co.nz>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.0.8",
+    "jquery": "2.0.3"
+  }
+}
