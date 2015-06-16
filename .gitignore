@@ -1,3 +1,4 @@
 /node_modules
 /build
-/public/bower_components
+/src/public/bower_components
+/src/public/all.*
