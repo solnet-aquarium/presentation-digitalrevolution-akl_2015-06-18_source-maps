@@ -1,0 +1,28 @@
+{
+  "name": "presentation-digitalrevolution-akl_2015-06-18_source-maps",
+  "version": "1.0.0",
+  "description": "In which we look at how to make them, how they work, and how to use them",
+  "main": "index.js",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-uglify": "^0.9.1"
+  },
+  "devDependencies": {
+    "express": "^4.12.4",
+    "grunt-contrib-uglify": "^0.9.1",
+    "mongoose": "^4.0.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/solnetdigital/presentation-digitalrevolution-akl_2015-06-18_source-maps.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/solnetdigital/presentation-digitalrevolution-akl_2015-06-18_source-maps/issues"
+  },
+  "homepage": "https://github.com/solnetdigital/presentation-digitalrevolution-akl_2015-06-18_source-maps"
+}
