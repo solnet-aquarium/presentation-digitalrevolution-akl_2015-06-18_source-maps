@@ -12,3 +12,6 @@ In which we look at how to make them, how they work, and how to use them
 
  -- http://www.html5rocks.com/en/tutorials/developertools/sourcemaps/#toc-realworld
  
+## How
+
+Using `grunt`, the `grunt-contrib-concat` and `grunt-contrib-uglify` tasks must be combined to ensure redictable order of script inclusion.
